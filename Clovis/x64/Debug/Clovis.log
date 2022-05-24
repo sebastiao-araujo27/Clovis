@@ -1,0 +1,7 @@
+﻿  Clovis.cpp
+  Personagem.cpp
+D:\testeh\Clovis\Clovis\Personagem.cpp(27,11): warning C4305: '*=': truncamento de 'double' para 'float'
+D:\testeh\Clovis\Clovis\Personagem.cpp(28,13): warning C4305: '+=': truncamento de 'double' para 'float'
+  Principal.cpp
+  Gerando Código...
+  Clovis.vcxproj -> D:\testeh\Clovis\x64\Debug\Clovis.exe
